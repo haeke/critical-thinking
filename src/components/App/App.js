@@ -84,7 +84,7 @@ const howQuestions2 = {
 const App = () => {
   return (
     <div className="appContainer">
-      <Home homeTitle="Looking Fors..." />
+      <Home homeTitle="Looking For..." />
       <CriticalThinking criticalThinkingHeader="Critical Thinking Skills..." />
       <Article articleHeader="Who">
         <ArticleList articleListStyle="whoListStyle" {...whoQuestions1} />

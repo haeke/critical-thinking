@@ -1,0 +1,85 @@
+.whatHeader {
+  flex: 1;
+  height: 100%;
+  background: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.whereHeader {
+  flex: 1;
+  height: 100%;
+  background: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.whenHeader {
+  flex: 1;
+  height: 100%;
+  background: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.whyHeader {
+  flex: 1;
+  height: 100%;
+  background: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.howHeader {
+  flex: 1;
+  height: 100%;
+  background: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.whoListStyle {
+  background: #5264ce;
+}
+
+.whoListStyle2 {
+  background: #6077fb;
+}
+
+.whatListStyle {
+  background: #ffbc42;
+}
+
+.whatListStyle2 {
+  background: #f7c76f;
+}
+
+.whereListStyle {
+  background: #31ff31;
+}
+
+.whereListStyle2 {
+  background: #77ff77;
+}
+
+.whenListStyle {
+  background: #ff4f4f;
+}
+
+.whenListStyle2 {
+  background: #f97777;
+}
+.whyListStyle {
+  background: #d005d0;
+}
+
+.whyListStyle2 {
+  background: #ff1bff;
+}
+.howListStyle {
+  background: #989898;
+}
+.howListStyle2 {
+  background: #a9a8a8;
+}

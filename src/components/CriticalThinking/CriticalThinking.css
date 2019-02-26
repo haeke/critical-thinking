@@ -1,0 +1,15 @@
+/* critical thinking skills section */
+.criticalThinkingContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--secondaryColor);
+  padding: 20px 0;
+  height: 40vh;
+}
+
+.criticalThinkingHeader {
+  font-size: 100px;
+  color: var(--textColor);
+  border-bottom: 5px solid var(--altSecondaryColor);
+}

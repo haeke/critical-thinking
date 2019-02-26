@@ -1,10 +1,10 @@
 /* start footer section */
 .footerContainer {
   display: flex;
-  height: 20vh;
   background: var(--brandColor);
   justify-content: center;
   align-items: center;
+  padding: 20px;
 }
 
 .footerHeader {

@@ -1,8 +1,8 @@
 .articleContainer {
   display: flex;
-  height: 20vh;
   justify-content: center;
   align-items: center;
+  height: 40vh;
 }
 
 .headerContainer {
@@ -19,4 +19,11 @@
   text-align: center;
   font-size: 50px;
   color: var(--textColor);
+}
+
+@media (max-width: 800px) {
+  .articleContainer {
+    display: block;
+    height: 100%;
+  }
 }

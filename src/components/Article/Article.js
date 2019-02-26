@@ -1,4 +1,5 @@
 import React from "react";
+import classnames from "classnames";
 import PropTypes from "prop-types";
 
 import "./Article.css";
@@ -8,10 +9,10 @@ import "./Article.css";
 const Article = ({ articleHeader, articleStyle, children }) => {
   return (
     <section className="articleContainer">
-      <div className={articleStyle ? articleStyle : "headerContainer"}>
+      <div className={classnames("headerContainer", articleStyle)}>
         <h3 className="header">{articleHeader}</h3>
-        {children}
       </div>
+      {children}
     </section>
   );
 };

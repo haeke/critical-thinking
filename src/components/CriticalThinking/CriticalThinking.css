@@ -9,7 +9,7 @@
 }
 
 .criticalThinkingHeader {
-  font-size: 100px;
+  font-size: 40px;
   color: var(--textColor);
   border-bottom: 5px solid var(--altSecondaryColor);
 }

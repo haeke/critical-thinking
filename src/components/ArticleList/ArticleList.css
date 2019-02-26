@@ -16,3 +16,9 @@
   color: var(--textColor);
   font-weight: 600;
 }
+
+@media (max-width: 800px) {
+  .articleList {
+    padding: 20px;
+  }
+}

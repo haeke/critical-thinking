@@ -91,7 +91,6 @@ const App = () => {
         <ArticleList articleListStyle="whoListStyle2" {...whoQuestions2} />
       </Article>
       <Article articleStyle="whatHeader" articleHeader="What">
-        {/* add styles to add a lighter background */}
         <ArticleList articleListStyle="whatListStyle" {...whatQuestions1} />
         <ArticleList articleListStyle="whatListStyle2" {...whatQuestions2} />
       </Article>

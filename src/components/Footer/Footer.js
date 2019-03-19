@@ -6,14 +6,14 @@ const Footer = () => {
   return (
     <footer className="footerContainer">
       <div className="footerHeaderContainer">
-        <div className="footerHeader">
+        <h1 className="footerHeader">
           The Ultimate Cheatsheet for Critical Thinking
-        </div>
-        <div className="footerParagraph">
-          Want to exercise critical thinking skills? Ask these questiosn
+        </h1>
+        <p className="footerParagraph">
+          Want to exercise critical thinking skills? Ask these questions
           whenever you discover or discuss new information. These are broad and
           versatile questions that have limitless applications.
-        </div>
+        </p>
         <a
           className="footerLink"
           rel="noopener noreferrer"

@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footerContainer">
       <div className="footerHeaderContainer">
         <h1 className="footerHeader">
-          The Ultimate Cheatsheet for Critical Thinking
+          The Ultimate Cheatsheet for Critical Thinking 
         </h1>
         <p className="footerParagraph">
           Want to exercise critical thinking skills? Ask these questions

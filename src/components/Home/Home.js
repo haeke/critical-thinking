@@ -7,7 +7,7 @@ const Home = ({ homeTitle }) => {
   return (
     <section className="home">
       <div className="homeContainer">
-        <h1 className="homeHeader">{homeTitle}</h1>
+        <h1 className="homeHeader">{homeTitle} </h1>
       </div>
     </section>
   );
